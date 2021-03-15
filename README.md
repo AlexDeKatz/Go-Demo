@@ -1,0 +1,1 @@
+This project contains an implementation of https://github.com/kubucation/go-rollercoaster-api
